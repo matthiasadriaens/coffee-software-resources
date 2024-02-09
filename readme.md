@@ -1,4 +1,4 @@
-list of operational coffee industry software
+list of operational coffee industry software applications and tools
 
 #### roasting aid software
 - [roasthubs](https://roasthubs.com) (plant control system for roasteries)
