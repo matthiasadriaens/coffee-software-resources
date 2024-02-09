@@ -18,3 +18,6 @@ list of operational coffee industry software applications and tools
 
 #### grinding
 - [coffeegrind](https://coffeegrind.app) (grinding size analysis)
+
+### cafe operations
+- [coffee cloud](www.coffeecloud.co) (iot esspresso machines monitoring software)
